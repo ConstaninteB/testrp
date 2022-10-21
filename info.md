@@ -1,1 +1,3 @@
 >it init - это 
+
+>git status - это ...
